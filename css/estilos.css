@@ -24,8 +24,8 @@
 /* BODY */
 body {
     font-family: 'Ubuntu', sans-serif;
-    background: var(--lila);
-    /* background-image: linear-gradient(var(--lila), #e2e2e2, var(--lila)); */
+    /* background: var(--lila); */
+    background-image: linear-gradient(var(--lila), #e2e2e2, var(--lila));
 }
 
 /* MAIN */
